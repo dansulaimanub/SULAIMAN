@@ -12,3 +12,6 @@ Software testing is fundemantal aspect of system development. Include tesing in 
 * Test Results
 
 There must be screenshots at every test case and test result to justify your testings.
+
+
+* Sir, i made all correction in the new uploaded files " sulaiman and preliminary page"
